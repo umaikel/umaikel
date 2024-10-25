@@ -17,7 +17,12 @@ Even though I'm a beginner, I can already say that I'm passionate about developi
 </div>
 <!--- icons repository https://github.com/devicons/devicon/tree/master -->
 
-## 🗂 Repos
+## 📂 Projects
 
 1. 📂 [CS50 Final Project](https://github.com/umaikel/MyInventory)
 2. 📂 Courses
+
+## Degree & certificades
+- [Licenciatura em Matemática]()
+- Bachelor in Data Science (in progress)
+- [CS50: Introduction to Computer Science](certificades/)
