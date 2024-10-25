@@ -22,7 +22,7 @@ Even though I'm a beginner, I can already say that I'm passionate about developi
 1. 📂 [CS50 Final Project](https://github.com/umaikel/MyInventory)
 2. 📂 Courses
 
-## Degree & certificades
-- [Licenciatura em Matemática]()
-- Bachelor in Data Science (in progress)
-- [CS50: Introduction to Computer Science](certificades/)
+## Degree & certificates
+- [Teaching Degree in Mathematics, UENP](certificates/)
+- Bachelor in Data Science, UNIVESP (in progress)
+- [CS50: Introduction to Computer Science](certificates/CS50x.pdf)
