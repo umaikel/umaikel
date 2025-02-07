@@ -1,7 +1,7 @@
 # Hi, I'm Maikel
 
 ## 👤 About me:
-I'm a 25-year-old Brazilian looking to kickstart my web development career. Building cool stuff has always been my thing, and I'm ready to make it my full-time gig.
+I'm a 25 yo Brazilian looking to kickstart my web development career. Building cool stuff has always been my thing, and I'm ready to make it my full-time gig.
 
 ## 📂 Projects
 - Forum (soon)
@@ -17,8 +17,7 @@ I'm a 25-year-old Brazilian looking to kickstart my web development career. Buil
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Boostrap" width="40" height="40"/>&nbsp;
 <!--- icons repository https://github.com/devicons/devicon/tree/master -->
 
-## 🎓 Degree & certificates
-- [Teaching Degree in Mathematics, UENP](certificates/)
-- Bachelor in Data Science, UNIVESP (In progress)
-- [CS50: Introduction to Computer Science](certificates/CS50x.pdf)
-- Oracle ONE, Brazil, Back-end (In progress)
+## 🎓 Degrees & Certificates
+- Teaching Degree in Mathematics, UENP
+- CS50: Introduction to Computer Science
+- Programa Oracle ONE, Brazil, Back-end
