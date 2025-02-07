@@ -1,10 +1,15 @@
 # Hi, I'm Maikel
 
 ## 👤 About me:
-I'm a 25 yo Brazilian looking to kickstart my web development career. Building cool stuff has always been my thing, and I'm ready to make it my full-time gig.
+My name is Maikel, I am 25 years old, and I am currently pursuing a Bachelor's degree in Information Technology (UNIVESP). I am seeking an opportunity to start my career as a Back-end developer. I am fully willing to learn and develop in various topics within the field. Here are some of my projects.
 
 ## 📂 Projects
 - Forum (soon)
+
+## 🎓 Degrees & Courses
+- Teaching Degree in Mathematics, UENP
+- CS50: Introduction to Computer Science
+- Programa Oracle ONE, Brazil, Back-end
 
 ## 🔧 Technical Skills
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -16,8 +21,3 @@ I'm a 25 yo Brazilian looking to kickstart my web development career. Building c
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Boostrap" width="40" height="40"/>&nbsp;
 <!--- icons repository https://github.com/devicons/devicon/tree/master -->
-
-## 🎓 Degrees & Certificates
-- Teaching Degree in Mathematics, UENP
-- CS50: Introduction to Computer Science
-- Programa Oracle ONE, Brazil, Back-end
